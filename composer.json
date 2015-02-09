@@ -13,11 +13,9 @@
     },
     "autoload": {
         "classmap": [
-            "src/facades",
-            "src/composers"
         ],
-        "psr-0": {
-            "Bocapa\\Menu": "src/"
+        "psr-4": {
+            "Bocapa\\Menu\\": "src/"
         }
     },
     "minimum-stability": "stable"

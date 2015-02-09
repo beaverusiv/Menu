@@ -1,4 +1,4 @@
-<?php
+<?php namespace Bocapa\Menu\Composers;
 
 use Illuminate\View\View;
 
