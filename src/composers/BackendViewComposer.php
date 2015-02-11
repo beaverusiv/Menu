@@ -1,6 +1,7 @@
 <?php namespace Bocapa\Menu\Composers;
 
 use Illuminate\View\View;
+use Bocapa\Menu\Facades\Menu;
 
 class BackendViewComposer {
     public function compose(View $view)
